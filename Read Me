@@ -1,0 +1,21 @@
+# Numerology Calculator Making
+
+This repository explains the basic logic behind creating a simple **Pythagorean numerology calculator**.
+
+In Pythagorean numerology, letters are assigned numerical values from 1 to 9. These values can be combined and reduced to help calculate numbers associated with a person's name, including the Expression Number.
+
+## What This Project Covers
+
+* Pythagorean letter-to-number values
+* Name numerology calculations
+* Number reduction methods
+* Master Numbers 11, 22, and 33
+* Simple examples for understanding the calculation process
+
+## Try a Numerology Calculator
+
+If you want to calculate a name number without doing the arithmetic manually, you can use this [numerology calculator](https://calculadoranumerologia.com/) to explore the result.
+
+## About
+
+This educational project is maintained by **Beatriz Bonner**, an SEO blogger and freelancer interested in useful online tools, niche websites, and digital content.
